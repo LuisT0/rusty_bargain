@@ -30,12 +30,6 @@ Rusty Bargain, servicio de venta de autos usados, está desarrollando una aplica
 
 ## Uso
 
-Abre y ejecuta el notebook de Jupyter:
-
-```bash
-jupyter notebook notebooks/Proyecto\ Sprint\ 14.ipynb
-```
-
 Dentro del notebook encontrarás:
 
 - **Preparación de datos**: limpieza y transformación de variables.
